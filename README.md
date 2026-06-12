@@ -21,8 +21,7 @@ Minimal serif three-page site (Home / Research / CV) for Daniel Corredor-Vallejo
 ## Before going live — verify
 
 - The Nigeria IDEAS entry (Research page): confirm with the team the byline order (Premand, Crépon,
-  Okunogbe, Khan) and the role note about leading the endline analysis stage.
-- Affiliation wording: the bio says "Development Impact Evaluation (DIME) department", following your CV.
+  Okunogbe, Khan) and the role note about leading the endline analysis work.
 
 ## Note on the hosted CV
 
