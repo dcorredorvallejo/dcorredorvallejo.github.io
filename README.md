@@ -20,11 +20,15 @@ Minimal serif three-page site (Home / Research / CV) for Daniel Corredor-Vallejo
 
 ## Before going live — verify
 
-- The author list on the Nigeria IDEAS entry (Research page) currently matches the AEA registry PIs
-  (Crépon, Khan, Okunogbe, Premand). Confirm with the team how they want the working-paper byline shown.
-- The undergraduate-thesis link is the bit.ly URL embedded in your CV — click it once to confirm it
-  still points to the thesis.
+- The Nigeria IDEAS entry (Research page): confirm with the team the byline order (Premand, Crépon,
+  Okunogbe, Khan) and the role note about leading the endline analysis stage.
 - Affiliation wording: the bio says "Development Impact Evaluation (DIME) department", following your CV.
+
+## Note on the hosted CV
+
+`assets/cv.pdf` is a web version: the referee list is replaced with "Available upon request." and the
+mobile number is removed (true redaction — the text is not recoverable from the file). Keep your full
+CV for direct applications; only this hosted copy is public.
 
 ## Optional: custom domain
 
